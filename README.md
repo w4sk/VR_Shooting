@@ -28,6 +28,8 @@
 
     ![teleport](img/teleport.gif)
 
+- 自然な歩行を実現についてまとめているので，参考まで([このQiita](https://qiita.com/4sk/items/c91bf10962b8dd81563c))
+
 ### シーン2: シューティングシーン(WIP)
 1. ホログラムになっている銃に手を伸ばし，装備
 
